@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ByteSIM Japan eSIM</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;font-family:system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;}
+body{background:#f8f7f2;color:#222;line-height:1.65;padding:20px 16px;max-width:720px;margin:0 auto;}
+.container{background:#fff;border-radius:16px;padding:28px 24px;box-shadow:0 2px 12px rgba(0,0,0,0.07);}
+h1{font-size:24px;text-align:center;margin-bottom:8px;color:#b45309;}
+.sub-title{text-align:center;color:#555;font-size:14px;margin-bottom:24px;}
+table{width:100%;border-collapse:collapse;margin:18px 0 28px;}
+th,td{border:1px solid #e5e5e5;padding:12px 10px;text-align:center;font-size:15px;}
+th{background:#fffbeb;}
+h2{font-size:18px;margin:32px 0 14px;border-left:4px solid #d97706;padding-left:10px;}
+h3{font-size:16px;margin:16px 0 8px;}
+.warn-block{background:#fff7ed;padding:14px 16px;border-radius:10px;margin:16px 0;font-size:14.5px;}
+.section-en{margin-top:48px;border-top:1px dashed #cccccc;padding-top:36px;}
+ul,ol{padding-left:22px;margin:10px 0;}
+li{margin:8px 0;}
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>ByteSIM 日本 eSIM</h1>
+    <div class="sub-title">网络：Softbank 5G｜支持手机热点</div>
+    <div class="warn-block">
+        ⚠️全部套餐为<strong>总流量套餐，非每日流量</strong>；手机必须支持eSIM且为无锁机
+    </div>
+    <table>
+        <thead>
+        <tr><th>套餐规格</th><th>美元售价</th><th>人民币售价</th></tr>
+        </thead>
+        <tbody>
+        <tr><td>3GB‑3天</td><td>$3.90</td><td>¥22</td></tr>
+        <tr><td>3GB‑7天</td><td>$4.90</td><td>¥29</td></tr>
+        <tr><td>5GB‑3天</td><td>$6.90</td><td>¥40</td></tr>
+        <tr><td>5GB‑7天</td><td>$7.50</td><td>¥43</td></tr>
+        <tr><td>10GB‑10天</td><td>$11.90</td><td>¥72</td></tr>
+        </tbody>
+    </table>
+    <h2>购买方式</h2>
+    <h3>入住前提前购买（还未抵达日本）</h3>
+    <ol>
+        <li>联系民宿房东，告知选择的套餐</li>
+        <li>欧美客人：使用PayPal付款；中国游客：支持<strong>微信、支付宝人民币结算</strong>。</li>
+        <li>款项确认到账后，发送eSIM安装二维码</li>
+        <li>可在国内Wi‑Fi环境提前完成eSIM安装，<strong>抵达日本之前不要开启移动数据</strong></li>
+        <li>落地日本后，打开eSIM移动数据与数据漫游即可启用网络</li>
+    </ol>
+    <h3>到店现场购买（入住之后）</h3>
+    <ul>
+        <li>外国客人：美元现金 / PayPal</li>
+        <li>中国游客：人民币现金 / <strong>微信 / 支付宝</strong></li>
+    </ul>
+    <p>当场获取eSIM二维码完成设置。</p >
+    <h2>使用重要须知</h2>
+    <div class="warn-block">
+        📱1. 手机设备要求<br>
+        手机必须支持eSIM，并且解除运营商网络锁。运营商锁机无法使用本eSIM。<br>
+        国内实体SIM卡可以保留在手机，正常接收国内短信、来电；<strong>务必关闭国内SIM卡的数据漫游，防止产生高额国际漫游扣费</strong>。
+    </div>
+    <div class="warn-block">
+        2. 安装与生效规则<br>
+        可以在国内Wi‑Fi下预先安装eSIM配置。<br>
+        <strong>套餐计时，从eSIM第一次连接日本SoftBank本地网络才开始计算。</strong><br>
+        落地日本操作：设置 → 蜂窝网络 → 选中ByteSIM eSIM → 打开移动数据，<strong>务必打开【数据漫游】（日本本地eSIM也需要开启）</strong>。网络异常开关一次飞行模式。
+    </div>
+    <div class="warn-block">
+        3. 流量说明<br>
+        所有套餐为总流量，不是每日流量。举例：5GB‑7天 =7天合计一共5GB流量，并非每天5GB。
+    </div>
+    <div class="warn-block">
+        4. eSIM配置重要提醒<br>
+        给到你的二维码<strong>仅可以安装一次eSIM配置文件</strong>。安装完成后千万不要删除eSIM；一旦删除，套餐直接失效，同一个二维码无法重复安装。
+    </div>
+    <div class="warn-block">
+        5. 热点与网络<br>
+        本套餐支持手机热点；5G信号取决于当地SoftBank基站覆盖。
+    </div>
+    <div class="warn-block">
+        6. 退款说明<br>
+        eSIM属于虚拟数字商品，二维码发出后不予退款；仅确认属于运营商/发卡方本身技术故障的情况除外。购买前请确认自己手机硬件条件。
+    </div>
+    <div class="warn-block">
+        7. 网络故障排查<br>
+        ‑确认eSIM线路已启用、数据漫游已经打开<br>
+        ‑开关飞行模式<br>
+        ‑手动选择运营商SoftBank<br>
+        ‑联系民宿房东寻求协助
+    </div>
+
+    <div class="section-en">
+        <h1>ByteSIM Japan eSIM</h1>
+        <div class="sub-title">Network：Softbank 5G｜Hotspot supported</div>
+        <div class="warn-block">
+            ⚠️Total‑data plan (not daily data)｜Phone must be eSIM‑capable & SIM‑unlocked
+        </div>
+        <table>
+            <thead>
+            <tr><th>Package</th><th>Price(USD)</th><th>Price(RMB)</th></tr>
+            </thead>
+            <tbody>
+            <tr><td>3GB‑3 Days</td><td>$3.90</td><td>¥22</td></tr>
+            <tr><td>3GB‑7 Days</td><td>$4.90</td><td>¥29</td></tr>
+            <tr><td>5GB‑3 Days</td><td>$6.90</td><td>¥40</td></tr>
+            <tr><td>5GB‑7 Days</td><td>$7.50</td><td>¥43</td></tr>
+            <tr><td>10GB‑10 Days</td><td>$11.90</td><td>¥72</td></tr>
+            </tbody>
+        </table>
+        <h2>Purchase Options</h2>
+        <h3>Pre‑Purchase (Before check‑in / before arriving Japan)</h3>
+        <ol>
+            <li>Message the guesthouse host and select your desired package.</li>
+            <li>Foreign guests：Pay via PayPal payment request.<br>Chinese guests：Pay via WeChat Pay / Alipay (RMB settlement).</li>
+            <li>After payment is confirmed, we send you the eSIM installation QR‑code.</li>
+            <li>Install eSIM over Wi‑Fi at home, <strong>DO NOT enable cellular data before landing in Japan</strong>.</li>
+            <li>After arriving in Japan, turn on eSIM cellular data and data‑roaming to activate service.</li>
+        </ol>
+        <h3>On‑site purchase (After check‑in)</h3>
+        <ul>
+            <li>Overseas visitors：USD cash / PayPal</li>
+            <li>Chinese visitors：RMB cash / WeChat Pay / Alipay</li>
+        </ul>
+        <p>Receive eSIM QR‑code immediately for setup.</p >
+        <h2>Important Information</h2>
+        <div class="warn-block">
+            📱1. Device Compatibility<br>
+            Your phone <strong>must support eSIM function and be SIM‑unlocked</strong>. Phones locked by original carrier cannot use this eSIM. You may keep your home physical SIM card in the phone for calls & SMS; please turn OFF data‑roaming for your home SIM to avoid unexpected roaming charges.
+        </div>
+        <div class="warn-block">
+            2. Installation & Activation Rule<br>
+            You can install the eSIM profile in advance via Wi‑Fi in your home country.<br>
+            <strong>Service validity countdown starts when your eSIM first connects to SoftBank Japan local network.</strong><br>
+            Steps after landing Japan: Settings → Mobile Data → Select ByteSIM eSIM → Turn on Cellular Data & <strong>Data Roaming</strong> (required for local Japan eSIM). Toggle airplane mode once if network does not register.
+        </div>
+        <div class="warn-block">
+            3. Total‑data reminder<br>
+            All packages are total‑data plan, NOT daily‑data. Example: 5GB‑7Days means total 5GB data to use within 7 days, not 5GB per day.
+        </div>
+        <div class="warn-block">
+            4. Critical notice about eSIM profile<br>
+            The provided QR‑code can only install the eSIM profile <strong>one single time</strong>. Do NOT delete the eSIM profile after installation. Deleting it will make the package invalid and cannot be re‑installed with same QR‑code.
+        </div>
+        <div class="warn-block">
+            5. Hotspot & Network<br>
+            Hotspot function is supported. 5G service depends on local SoftBank coverage at your location.
+        </div>
+        <div class="warn-block">
+            6. Refund Policy<br>
+            eSIM is digital virtual goods. <strong>No refund after QR‑code is delivered</strong>, except confirmed technical failure caused by network / provider side. Please double‑check your phone compatibility before purchase.
+        </div>
+        <div class="warn-block">
+            7. Trouble‑shooting<br>
+            ‑ Confirm eSIM line is enabled, data‑roaming is switched ON<br>
+            ‑ Toggle airplane mode<br>
+            ‑ Manually select SoftBank carrier in network setting<br>
+            ‑ Contact guesthouse host for support
+        </div>
+    </div>
+</div>
+</body>
+</html>
